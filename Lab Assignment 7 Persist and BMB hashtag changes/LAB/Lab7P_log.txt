@@ -1,0 +1,267 @@
+starting org.apache.spark.deploy.master.Master, logging to /storage/work/tkk5297/Lab7/spark-tkk5297-org.apache.spark.deploy.master.Master-1-p-bc-5033.out
+Using Spark's default log4j profile: org/apache/spark/log4j2-defaults.properties
+24/10/11 13:08:35 INFO Worker: Started daemon with process name: 2228781@p-bc-5068
+24/10/11 13:08:35 INFO SignalUtils: Registering signal handler for TERM
+24/10/11 13:08:35 INFO SignalUtils: Registering signal handler for HUP
+24/10/11 13:08:35 INFO SignalUtils: Registering signal handler for INT
+Using Spark's default log4j profile: org/apache/spark/log4j2-defaults.properties
+24/10/11 13:08:35 INFO Worker: Started daemon with process name: 2889783@p-bc-5033
+Using Spark's default log4j profile: org/apache/spark/log4j2-defaults.properties
+24/10/11 13:08:35 INFO SignalUtils: Registering signal handler for TERM
+24/10/11 13:08:35 INFO SignalUtils: Registering signal handler for HUP
+24/10/11 13:08:35 INFO SignalUtils: Registering signal handler for INT
+24/10/11 13:08:35 INFO Worker: Started daemon with process name: 946400@p-bc-5060
+24/10/11 13:08:36 INFO SignalUtils: Registering signal handler for TERM
+24/10/11 13:08:36 INFO SignalUtils: Registering signal handler for HUP
+24/10/11 13:08:36 INFO SignalUtils: Registering signal handler for INT
+24/10/11 13:08:36 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+24/10/11 13:08:36 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+24/10/11 13:08:36 INFO SecurityManager: Changing view acls to: tkk5297
+24/10/11 13:08:36 INFO SecurityManager: Changing modify acls to: tkk5297
+24/10/11 13:08:36 INFO SecurityManager: Changing view acls groups to: 
+24/10/11 13:08:36 INFO SecurityManager: Changing modify acls groups to: 
+24/10/11 13:08:36 INFO SecurityManager: SecurityManager: authentication disabled; ui acls disabled; users  with view permissions: Set(tkk5297); groups with view permissions: Set(); users  with modify permissions: Set(tkk5297); groups with modify permissions: Set()
+24/10/11 13:08:36 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+24/10/11 13:08:36 INFO SecurityManager: Changing view acls to: tkk5297
+24/10/11 13:08:36 INFO SecurityManager: Changing modify acls to: tkk5297
+24/10/11 13:08:36 INFO SecurityManager: Changing view acls groups to: 
+24/10/11 13:08:36 INFO SecurityManager: Changing modify acls groups to: 
+24/10/11 13:08:36 INFO SecurityManager: SecurityManager: authentication disabled; ui acls disabled; users  with view permissions: Set(tkk5297); groups with view permissions: Set(); users  with modify permissions: Set(tkk5297); groups with modify permissions: Set()
+24/10/11 13:08:36 INFO SecurityManager: Changing view acls to: tkk5297
+24/10/11 13:08:36 INFO SecurityManager: Changing modify acls to: tkk5297
+24/10/11 13:08:36 INFO SecurityManager: Changing view acls groups to: 
+24/10/11 13:08:36 INFO SecurityManager: Changing modify acls groups to: 
+24/10/11 13:08:36 INFO SecurityManager: SecurityManager: authentication disabled; ui acls disabled; users  with view permissions: Set(tkk5297); groups with view permissions: Set(); users  with modify permissions: Set(tkk5297); groups with modify permissions: Set()
+Using Spark's default log4j profile: org/apache/spark/log4j2-defaults.properties
+24/10/11 13:08:36 INFO Worker: Started daemon with process name: 2417529@p-bc-5064
+24/10/11 13:08:36 INFO SignalUtils: Registering signal handler for TERM
+24/10/11 13:08:36 INFO SignalUtils: Registering signal handler for HUP
+24/10/11 13:08:36 INFO SignalUtils: Registering signal handler for INT
+24/10/11 13:08:36 INFO Utils: Successfully started service 'sparkWorker' on port 36873.
+24/10/11 13:08:36 INFO Worker: Worker decommissioning not enabled.
+24/10/11 13:08:36 INFO Utils: Successfully started service 'sparkWorker' on port 43509.
+24/10/11 13:08:36 INFO Worker: Worker decommissioning not enabled.
+24/10/11 13:08:36 INFO Utils: Successfully started service 'sparkWorker' on port 44697.
+24/10/11 13:08:36 INFO Worker: Worker decommissioning not enabled.
+24/10/11 13:08:36 INFO Worker: Starting Spark worker 10.6.8.78:36873 with 4 cores, 15.0 GiB RAM
+24/10/11 13:08:36 INFO Worker: Running Spark version 3.3.0
+24/10/11 13:08:36 INFO Worker: Spark home: /storage/icds/RISE/sw8/spark-3.3.0-bin-hadoop3
+24/10/11 13:08:36 INFO ResourceUtils: ==============================================================
+24/10/11 13:08:36 INFO ResourceUtils: No custom resources configured for spark.worker.
+24/10/11 13:08:36 INFO ResourceUtils: ==============================================================
+24/10/11 13:08:36 INFO Worker: Starting Spark worker 10.6.8.70:43509 with 4 cores, 15.0 GiB RAM
+24/10/11 13:08:36 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+24/10/11 13:08:36 INFO Worker: Running Spark version 3.3.0
+24/10/11 13:08:36 INFO Worker: Spark home: /storage/icds/RISE/sw8/spark-3.3.0-bin-hadoop3
+24/10/11 13:08:36 INFO Worker: Starting Spark worker 10.6.8.43:44697 with 4 cores, 15.0 GiB RAM
+24/10/11 13:08:36 INFO ResourceUtils: ==============================================================
+24/10/11 13:08:36 INFO ResourceUtils: No custom resources configured for spark.worker.
+24/10/11 13:08:36 INFO Worker: Running Spark version 3.3.0
+24/10/11 13:08:36 INFO ResourceUtils: ==============================================================
+24/10/11 13:08:36 INFO Worker: Spark home: /storage/icds/RISE/sw8/spark-3.3.0-bin-hadoop3
+24/10/11 13:08:36 INFO ResourceUtils: ==============================================================
+24/10/11 13:08:36 INFO ResourceUtils: No custom resources configured for spark.worker.
+24/10/11 13:08:36 INFO ResourceUtils: ==============================================================
+24/10/11 13:08:37 INFO SecurityManager: Changing view acls to: tkk5297
+24/10/11 13:08:37 INFO SecurityManager: Changing modify acls to: tkk5297
+24/10/11 13:08:37 INFO SecurityManager: Changing view acls groups to: 
+24/10/11 13:08:37 INFO SecurityManager: Changing modify acls groups to: 
+24/10/11 13:08:37 INFO SecurityManager: SecurityManager: authentication disabled; ui acls disabled; users  with view permissions: Set(tkk5297); groups with view permissions: Set(); users  with modify permissions: Set(tkk5297); groups with modify permissions: Set()
+24/10/11 13:08:37 INFO Utils: Successfully started service 'WorkerUI' on port 8081.
+24/10/11 13:08:37 INFO WorkerWebUI: Bound WorkerWebUI to 0.0.0.0, and started at http://p-bc-5068.2e.hpc.psu.edu:8081
+24/10/11 13:08:37 INFO Worker: Connecting to master p-bc-5033:7077...
+24/10/11 13:08:37 WARN Utils: Service 'WorkerUI' could not bind on port 8081. Attempting port 8082.
+24/10/11 13:08:37 INFO Utils: Successfully started service 'WorkerUI' on port 8082.
+24/10/11 13:08:37 INFO WorkerWebUI: Bound WorkerWebUI to 0.0.0.0, and started at http://p-bc-5060.2e.hpc.psu.edu:8082
+24/10/11 13:08:37 INFO Worker: Connecting to master p-bc-5033:7077...
+24/10/11 13:08:37 INFO Utils: Successfully started service 'WorkerUI' on port 8081.
+24/10/11 13:08:37 INFO TransportClientFactory: Successfully created connection to p-bc-5033/10.6.8.43:7077 after 34 ms (0 ms spent in bootstraps)
+24/10/11 13:08:37 INFO TransportClientFactory: Successfully created connection to p-bc-5033/10.6.8.43:7077 after 34 ms (0 ms spent in bootstraps)
+24/10/11 13:08:37 INFO WorkerWebUI: Bound WorkerWebUI to 0.0.0.0, and started at http://p-bc-5033.2e.hpc.psu.edu:8081
+24/10/11 13:08:37 INFO Worker: Connecting to master p-bc-5033:7077...
+24/10/11 13:08:37 INFO Utils: Successfully started service 'sparkWorker' on port 34311.
+24/10/11 13:08:37 INFO Worker: Worker decommissioning not enabled.
+24/10/11 13:08:37 INFO Worker: Successfully registered with master spark://p-bc-5033:7077
+24/10/11 13:08:37 INFO Worker: Successfully registered with master spark://p-bc-5033:7077
+24/10/11 13:08:37 INFO TransportClientFactory: Successfully created connection to p-bc-5033/10.6.8.43:7077 after 48 ms (0 ms spent in bootstraps)
+Using Spark's default log4j profile: org/apache/spark/log4j2-defaults.properties
+24/10/11 13:08:37 INFO Worker: Successfully registered with master spark://p-bc-5033:7077
+24/10/11 13:08:37 INFO Worker: Starting Spark worker 10.6.8.74:34311 with 4 cores, 15.0 GiB RAM
+24/10/11 13:08:37 INFO Worker: Running Spark version 3.3.0
+24/10/11 13:08:37 INFO Worker: Spark home: /storage/icds/RISE/sw8/spark-3.3.0-bin-hadoop3
+24/10/11 13:08:37 INFO Worker: Started daemon with process name: 932306@p-bc-5069
+24/10/11 13:08:37 INFO SignalUtils: Registering signal handler for TERM
+24/10/11 13:08:37 INFO SignalUtils: Registering signal handler for HUP
+24/10/11 13:08:37 INFO SignalUtils: Registering signal handler for INT
+24/10/11 13:08:37 INFO ResourceUtils: ==============================================================
+24/10/11 13:08:37 INFO ResourceUtils: No custom resources configured for spark.worker.
+24/10/11 13:08:37 INFO ResourceUtils: ==============================================================
+24/10/11 13:08:37 INFO Utils: Successfully started service 'WorkerUI' on port 8081.
+24/10/11 13:08:37 INFO WorkerWebUI: Bound WorkerWebUI to 0.0.0.0, and started at http://p-bc-5064.2e.hpc.psu.edu:8081
+24/10/11 13:08:37 INFO Worker: Connecting to master p-bc-5033:7077...
+24/10/11 13:08:37 INFO TransportClientFactory: Successfully created connection to p-bc-5033/10.6.8.43:7077 after 42 ms (0 ms spent in bootstraps)
+24/10/11 13:08:37 INFO Worker: Successfully registered with master spark://p-bc-5033:7077
+24/10/11 13:08:38 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+24/10/11 13:08:38 INFO SecurityManager: Changing view acls to: tkk5297
+24/10/11 13:08:38 INFO SecurityManager: Changing modify acls to: tkk5297
+24/10/11 13:08:38 INFO SecurityManager: Changing view acls groups to: 
+24/10/11 13:08:38 INFO SecurityManager: Changing modify acls groups to: 
+24/10/11 13:08:38 INFO SecurityManager: SecurityManager: authentication disabled; ui acls disabled; users  with view permissions: Set(tkk5297); groups with view permissions: Set(); users  with modify permissions: Set(tkk5297); groups with modify permissions: Set()
+24/10/11 13:08:38 INFO Utils: Successfully started service 'sparkWorker' on port 36171.
+24/10/11 13:08:38 INFO Worker: Worker decommissioning not enabled.
+24/10/11 13:08:38 INFO Worker: Starting Spark worker 10.6.8.79:36171 with 4 cores, 15.0 GiB RAM
+24/10/11 13:08:38 INFO Worker: Running Spark version 3.3.0
+24/10/11 13:08:38 INFO Worker: Spark home: /storage/icds/RISE/sw8/spark-3.3.0-bin-hadoop3
+24/10/11 13:08:39 INFO ResourceUtils: ==============================================================
+24/10/11 13:08:39 INFO ResourceUtils: No custom resources configured for spark.worker.
+24/10/11 13:08:39 INFO ResourceUtils: ==============================================================
+24/10/11 13:08:39 INFO Utils: Successfully started service 'WorkerUI' on port 8081.
+24/10/11 13:08:39 INFO WorkerWebUI: Bound WorkerWebUI to 0.0.0.0, and started at http://p-bc-5069.2e.hpc.psu.edu:8081
+24/10/11 13:08:39 INFO Worker: Connecting to master p-bc-5033:7077...
+24/10/11 13:08:39 INFO TransportClientFactory: Successfully created connection to p-bc-5033/10.6.8.43:7077 after 47 ms (0 ms spent in bootstraps)
+24/10/11 13:08:39 INFO Worker: Successfully registered with master spark://p-bc-5033:7077
+24/10/11 13:08:57 INFO SparkContext: Running Spark version 3.3.0
+24/10/11 13:08:57 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+24/10/11 13:08:57 INFO ResourceUtils: ==============================================================
+24/10/11 13:08:57 INFO ResourceUtils: No custom resources configured for spark.driver.
+24/10/11 13:08:57 INFO ResourceUtils: ==============================================================
+24/10/11 13:08:57 INFO SparkContext: Submitted application: Lab7 Persist and BMB hastag changes
+24/10/11 13:08:57 INFO ResourceProfile: Default ResourceProfile created, executor resources: Map(cores -> name: cores, amount: 1, script: , vendor: , memory -> name: memory, amount: 1024, script: , vendor: , offHeap -> name: offHeap, amount: 0, script: , vendor: ), task resources: Map(cpus -> name: cpus, amount: 1.0)
+24/10/11 13:08:57 INFO ResourceProfile: Limiting resource is cpu
+24/10/11 13:08:57 INFO ResourceProfileManager: Added ResourceProfile id: 0
+24/10/11 13:08:57 INFO SecurityManager: Changing view acls to: tkk5297
+24/10/11 13:08:57 INFO SecurityManager: Changing modify acls to: tkk5297
+24/10/11 13:08:57 INFO SecurityManager: Changing view acls groups to: 
+24/10/11 13:08:57 INFO SecurityManager: Changing modify acls groups to: 
+24/10/11 13:08:57 INFO SecurityManager: SecurityManager: authentication disabled; ui acls disabled; users  with view permissions: Set(tkk5297); groups with view permissions: Set(); users  with modify permissions: Set(tkk5297); groups with modify permissions: Set()
+24/10/11 13:08:58 INFO Utils: Successfully started service 'sparkDriver' on port 38381.
+24/10/11 13:08:58 INFO SparkEnv: Registering MapOutputTracker
+24/10/11 13:08:58 INFO SparkEnv: Registering BlockManagerMaster
+24/10/11 13:08:58 INFO BlockManagerMasterEndpoint: Using org.apache.spark.storage.DefaultTopologyMapper for getting topology information
+24/10/11 13:08:58 INFO BlockManagerMasterEndpoint: BlockManagerMasterEndpoint up
+24/10/11 13:08:58 INFO SparkEnv: Registering BlockManagerMasterHeartbeat
+24/10/11 13:08:58 INFO DiskBlockManager: Created local directory at /tmp/blockmgr-ff0d396b-386c-4ced-9931-c4fb1f53bf37
+24/10/11 13:08:58 INFO MemoryStore: MemoryStore started with capacity 434.4 MiB
+24/10/11 13:08:58 INFO SparkEnv: Registering OutputCommitCoordinator
+24/10/11 13:08:58 INFO Utils: Successfully started service 'SparkUI' on port 4040.
+24/10/11 13:08:58 INFO StandaloneAppClient$ClientEndpoint: Connecting to master spark://p-bc-5033:7077...
+24/10/11 13:08:58 INFO TransportClientFactory: Successfully created connection to p-bc-5033/10.6.8.43:7077 after 30 ms (0 ms spent in bootstraps)
+24/10/11 13:08:58 INFO StandaloneSchedulerBackend: Connected to Spark cluster with app ID app-20241011130858-0000
+24/10/11 13:08:58 INFO Utils: Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 42959.
+24/10/11 13:08:58 INFO NettyBlockTransferService: Server created on p-bc-5033.2e.hpc.psu.edu:42959
+24/10/11 13:08:58 INFO BlockManager: Using org.apache.spark.storage.RandomBlockReplicationPolicy for block replication policy
+24/10/11 13:08:58 INFO BlockManagerMaster: Registering BlockManager BlockManagerId(driver, p-bc-5033.2e.hpc.psu.edu, 42959, None)
+24/10/11 13:08:58 INFO BlockManagerMasterEndpoint: Registering block manager p-bc-5033.2e.hpc.psu.edu:42959 with 434.4 MiB RAM, BlockManagerId(driver, p-bc-5033.2e.hpc.psu.edu, 42959, None)
+24/10/11 13:08:58 INFO BlockManagerMaster: Registered BlockManager BlockManagerId(driver, p-bc-5033.2e.hpc.psu.edu, 42959, None)
+24/10/11 13:08:58 INFO BlockManager: Initialized BlockManager: BlockManagerId(driver, p-bc-5033.2e.hpc.psu.edu, 42959, None)
+24/10/11 13:08:58 INFO StandaloneAppClient$ClientEndpoint: Executor added: app-20241011130858-0000/0 on worker-20241011130838-10.6.8.79-36171 (10.6.8.79:36171) with 4 core(s)
+24/10/11 13:08:58 INFO StandaloneSchedulerBackend: Granted executor ID app-20241011130858-0000/0 on hostPort 10.6.8.79:36171 with 4 core(s), 1024.0 MiB RAM
+24/10/11 13:08:58 INFO StandaloneAppClient$ClientEndpoint: Executor added: app-20241011130858-0000/1 on worker-20241011130836-10.6.8.78-36873 (10.6.8.78:36873) with 4 core(s)
+24/10/11 13:08:58 INFO StandaloneSchedulerBackend: Granted executor ID app-20241011130858-0000/1 on hostPort 10.6.8.78:36873 with 4 core(s), 1024.0 MiB RAM
+24/10/11 13:08:58 INFO StandaloneAppClient$ClientEndpoint: Executor added: app-20241011130858-0000/2 on worker-20241011130836-10.6.8.43-44697 (10.6.8.43:44697) with 4 core(s)
+24/10/11 13:08:58 INFO StandaloneSchedulerBackend: Granted executor ID app-20241011130858-0000/2 on hostPort 10.6.8.43:44697 with 4 core(s), 1024.0 MiB RAM
+24/10/11 13:08:58 INFO StandaloneAppClient$ClientEndpoint: Executor added: app-20241011130858-0000/3 on worker-20241011130836-10.6.8.70-43509 (10.6.8.70:43509) with 4 core(s)
+24/10/11 13:08:58 INFO StandaloneSchedulerBackend: Granted executor ID app-20241011130858-0000/3 on hostPort 10.6.8.70:43509 with 4 core(s), 1024.0 MiB RAM
+24/10/11 13:08:58 INFO StandaloneAppClient$ClientEndpoint: Executor added: app-20241011130858-0000/4 on worker-20241011130837-10.6.8.74-34311 (10.6.8.74:34311) with 4 core(s)
+24/10/11 13:08:58 INFO StandaloneSchedulerBackend: Granted executor ID app-20241011130858-0000/4 on hostPort 10.6.8.74:34311 with 4 core(s), 1024.0 MiB RAM
+24/10/11 13:08:59 INFO Worker: Asked to launch executor app-20241011130858-0000/0 for Lab7 Persist and BMB hastag changes
+24/10/11 13:08:59 INFO Worker: Asked to launch executor app-20241011130858-0000/3 for Lab7 Persist and BMB hastag changes
+24/10/11 13:08:59 INFO Worker: Asked to launch executor app-20241011130858-0000/1 for Lab7 Persist and BMB hastag changes
+24/10/11 13:08:59 INFO Worker: Asked to launch executor app-20241011130858-0000/4 for Lab7 Persist and BMB hastag changes
+24/10/11 13:08:59 INFO Worker: Asked to launch executor app-20241011130858-0000/2 for Lab7 Persist and BMB hastag changes
+24/10/11 13:08:59 INFO SecurityManager: Changing view acls to: tkk5297
+24/10/11 13:08:59 INFO SecurityManager: Changing modify acls to: tkk5297
+24/10/11 13:08:59 INFO SecurityManager: Changing view acls groups to: 
+24/10/11 13:08:59 INFO SecurityManager: Changing modify acls groups to: 
+24/10/11 13:08:59 INFO SecurityManager: SecurityManager: authentication disabled; ui acls disabled; users  with view permissions: Set(tkk5297); groups with view permissions: Set(); users  with modify permissions: Set(tkk5297); groups with modify permissions: Set()
+24/10/11 13:08:59 INFO SecurityManager: Changing view acls to: tkk5297
+24/10/11 13:08:59 INFO SecurityManager: Changing modify acls to: tkk5297
+24/10/11 13:08:59 INFO SecurityManager: Changing view acls groups to: 
+24/10/11 13:08:59 INFO SecurityManager: Changing modify acls groups to: 
+24/10/11 13:08:59 INFO SecurityManager: SecurityManager: authentication disabled; ui acls disabled; users  with view permissions: Set(tkk5297); groups with view permissions: Set(); users  with modify permissions: Set(tkk5297); groups with modify permissions: Set()
+24/10/11 13:08:59 INFO SecurityManager: Changing view acls to: tkk5297
+24/10/11 13:08:59 INFO SecurityManager: Changing modify acls to: tkk5297
+24/10/11 13:08:59 INFO SecurityManager: Changing view acls groups to: 
+24/10/11 13:08:59 INFO SecurityManager: Changing modify acls groups to: 
+24/10/11 13:08:59 INFO SecurityManager: SecurityManager: authentication disabled; ui acls disabled; users  with view permissions: Set(tkk5297); groups with view permissions: Set(); users  with modify permissions: Set(tkk5297); groups with modify permissions: Set()
+24/10/11 13:08:59 INFO ExecutorRunner: Launch command: "/usr/lib/jvm/java-11-openjdk-11.0.24.0.8-3.el8.x86_64/bin/java" "-cp" "/storage/icds/RISE/sw8/spark-3.3.0-bin-hadoop3/conf/:/storage/icds/RISE/sw8/spark-3.3.0-bin-hadoop3/jars/*" "-Xmx1024M" "-Dspark.driver.port=38381" "-XX:+IgnoreUnrecognizedVMOptions" "--add-opens=java.base/java.lang=ALL-UNNAMED" "--add-opens=java.base/java.lang.invoke=ALL-UNNAMED" "--add-opens=java.base/java.lang.reflect=ALL-UNNAMED" "--add-opens=java.base/java.io=ALL-UNNAMED" "--add-opens=java.base/java.net=ALL-UNNAMED" "--add-opens=java.base/java.nio=ALL-UNNAMED" "--add-opens=java.base/java.util=ALL-UNNAMED" "--add-opens=java.base/java.util.concurrent=ALL-UNNAMED" "--add-opens=java.base/java.util.concurrent.atomic=ALL-UNNAMED" "--add-opens=java.base/sun.nio.ch=ALL-UNNAMED" "--add-opens=java.base/sun.nio.cs=ALL-UNNAMED" "--add-opens=java.base/sun.security.action=ALL-UNNAMED" "--add-opens=java.base/sun.util.calendar=ALL-UNNAMED" "--add-opens=java.security.jgss/sun.security.krb5=ALL-UN24/10/11 13:08:59 INFO ExecutorRunner: Launch command: "/usr/lib/jvm/java-11-openjdk-11.0.24.0.8-3.el8.x86_64/bin/java" "-cp" "/storage/icds/RISE/sw8/spark-3.3.0-bin-hadoop3/conf/:/storage/icds/RISE/sw8/spark-3.3.0-bin-hadoop3/jars/*" "-Xmx1024M" "-Dspark.driver.port=38381" "-XX:+IgnoreUnrecognizedVMOptions" "--add-opens=java.base/java.lang=ALL-UNNAMED" "--add-opens=java.base/java.lang.invoke=ALL-UNNAMED" "--add-opens=java.base/java.lang.reflect=ALL-UNNAMED" "--add-opens=java.base/java.io=ALL-UNNAMED" "--add-opens=java.base/java.net=ALL-UNNAMED" "--add-opens=java.base/java.nio=ALL-UNNAMED" "--add-opens=java.base/java.util=ALL-UNNAMED" "--add-opens=java.base/java.util.concurrent=ALL-UNNAMED" "--add-opens=java.base/java.util.concurrent.atomic=ALL-UNNAMED" "--add-opens=java.base/sun.nio.ch=ALL-UNNAMED" "--add-opens=java.base/sun.nio.cs=ALL-UNNAMED" "--add-opens=java.base/sun.security.action=ALL-UNNAMED" "--add-opens=java.base/sun.util.calendar=ALL-UNNAMED" "--add-opens=java.security.jgss/sun.security.krb5=ALL-UNNAMED" "org.apache.spark.executor.CoarseGrainedExecutorBackend" "--driver-url" "spark://CoarseGrainedScheduler@p-bc-5033.2e.hpc.psu.edu:38381" "--executor-id" "3" "--hostname" "10.6.8.70" "--cores" "4" "--app-id" "app-20241011130858-0000" "--worker-url" "spark://Worker@10.6.8.70:43509"
+NAMED" "org.apache.spark.executor.CoarseGrainedExecutorBackend" "--driver-url" "spark://CoarseGrainedScheduler@p-bc-5033.2e.hpc.psu.edu:38381" "--executor-id" "0" "--hostname" "10.6.8.79" "--cores" "4" "--app-id" "app-20241011130858-0000" "--worker-url" "spark://Worker@10.6.8.79:36171"
+24/10/11 13:08:59 INFO SecurityManager: Changing view acls to: tkk5297
+24/10/11 13:08:59 INFO SecurityManager: Changing modify acls to: tkk5297
+24/10/11 13:08:59 INFO SecurityManager: Changing view acls groups to: 
+24/10/11 13:08:59 INFO SecurityManager: Changing modify acls groups to: 
+24/10/11 13:08:59 INFO SecurityManager: SecurityManager: authentication disabled; ui acls disabled; users  with view permissions: Set(tkk5297); groups with view permissions: Set(); users  with modify permissions: Set(tkk5297); groups with modify permissions: Set()
+24/10/11 13:08:59 INFO SecurityManager: Changing view acls to: tkk5297
+24/10/11 13:08:59 INFO SecurityManager: Changing modify acls to: tkk5297
+24/10/11 13:08:59 INFO SecurityManager: Changing view acls groups to: 
+24/10/11 13:08:59 INFO SecurityManager: Changing modify acls groups to: 
+24/10/11 13:08:59 INFO SecurityManager: SecurityManager: authentication disabled; ui acls disabled; users  with view permissions: Set(tkk5297); groups with view permissions: Set(); users  with modify permissions: Set(tkk5297); groups with modify permissions: Set()
+24/10/11 13:08:59 INFO ExecutorRunner: Launch command: "/usr/lib/jvm/java-11-openjdk-11.0.24.0.8-3.el8.x86_64/bin/java" "-cp" "/storage/icds/RISE/sw8/spark-3.3.0-bin-hadoop3/conf/:/storage/icds/RISE/sw8/spark-3.3.0-bin-hadoop3/jars/*" "-Xmx1024M" "-Dspark.driver.port=38381" "-XX:+IgnoreUnrecognizedVMOptions" "--add-opens=java.base/java.lang=ALL-UNNAMED" "--add-opens=java.base/java.lang.invoke=ALL-UNNAMED" "--add-opens=java.base/java.lang.reflect=ALL-UNNAMED" "--add-opens=java.base/java.io=ALL-UNNAMED" "--add-opens=java.base/java.net=ALL-UNNAMED" "--add-opens=java.base/java.nio=ALL-UNNAMED" "--add-opens=java.base/java.util=ALL-UNNAMED" "--add-opens=java.base/java.util.concurrent=ALL-UNNAMED" "--add-opens=java.base/java.util.concurrent.atomic=ALL-UNNAMED" "--add-opens=java.base/sun.nio.ch=ALL-UNNAMED" "--add-opens=java.base/sun.nio.cs=ALL-UNNAMED" "--add-opens=java.base/sun.security.action=ALL-UNNAMED" "--add-opens=java.base/sun.util.calendar=ALL-UNNAMED" "--add-opens=java.security.jgss/sun.security.krb5=ALL-UNNAMED" "org.apache.spark.executor.CoarseGrainedExecutorBackend" "--driver-url" "spark://CoarseGrainedScheduler@p-bc-5033.2e.hpc.psu.edu:38381" "--executor-id" "1" "--hostname" "10.6.8.78" "--cores" "4" "--app-id" "app-20241011130858-0000" "--worker-url" "spark://Worker@10.6.8.78:36873"
+24/10/11 13:08:59 INFO ExecutorRunner: Launch command: "/usr/lib/jvm/java-11-openjdk-11.0.24.0.8-3.el8.x86_64/bin/java" "-cp" "/storage/icds/RISE/sw8/spark-3.3.0-bin-hadoop3/conf/:/storage/icds/RISE/sw8/spark-3.3.0-bin-hadoop3/jars/*" "-Xmx1024M" "-Dspark.driver.port=38381" "-XX:+IgnoreUnrecognizedVMOptions" "--add-opens=java.base/java.lang=ALL-UNNAMED" "--add-opens=java.base/java.lang.invoke=ALL-UNNAMED" "--add-opens=java.base/java.lang.reflect=ALL-UNNAMED" "--add-opens=java.base/java.io=ALL-UNNAMED" "--add-opens=java.base/java.net=ALL-UNNAMED" "--add-opens=java.base/java.nio=ALL-UNNAMED" "--add-opens=java.base/java.util=ALL-UNNAMED" "--add-opens=java.base/java.util.concurrent=ALL-UNNAMED" "--add-opens=java.base/java.util.concurrent.atomic=ALL-UNNAMED" "--add-opens=java.base/sun.nio.ch=ALL-UNNAMED" "--add-opens=java.base/sun.nio.cs=ALL-UNNAMED" "--add-opens=java.base/sun.security.action=ALL-UNNAMED" "--add-opens=java.base/sun.util.calendar=ALL-UNNAMED" "--add-opens=java.security.jgss/sun.security.krb5=ALL-UNNAMED" "org.apache.spark.executor.CoarseGrainedExecutorBackend" "--driver-url" "spark://CoarseGrainedScheduler@p-bc-5033.2e.hpc.psu.edu:38381" "--executor-id" "2" "--hostname" "10.6.8.43" "--cores" "4" "--app-id" "app-20241011130858-0000" "--worker-url" "spark://Worker@10.6.8.43:44697"
+24/10/11 13:08:59 INFO ExecutorRunner: Launch command: "/usr/lib/jvm/java-11-openjdk-11.0.24.0.8-3.el8.x86_64/bin/java" "-cp" "/storage/icds/RISE/sw8/spark-3.3.0-bin-hadoop3/conf/:/storage/icds/RISE/sw8/spark-3.3.0-bin-hadoop3/jars/*" "-Xmx1024M" "-Dspark.driver.port=38381" "-XX:+IgnoreUnrecognizedVMOptions" "--add-opens=java.base/java.lang=ALL-UNNAMED" "--add-opens=java.base/java.lang.invoke=ALL-UNNAMED" "--add-opens=java.base/java.lang.reflect=ALL-UNNAMED" "--add-opens=java.base/java.io=ALL-UNNAMED" "--add-opens=java.base/java.net=ALL-UNNAMED" "--add-opens=java.base/java.nio=ALL-UNNAMED" "--add-opens=java.base/java.util=ALL-UNNAMED" "--add-opens=java.base/java.util.concurrent=ALL-UNNAMED" "--add-opens=java.base/java.util.concurrent.atomic=ALL-UNNAMED" "--add-opens=java.base/sun.nio.ch=ALL-UNNAMED" "--add-opens=java.base/sun.nio.cs=ALL-UNNAMED" "--add-opens=java.base/sun.security.action=ALL-UNNAMED" "--add-opens=java.base/sun.util.calendar=ALL-UNNAMED" "--add-opens=java.security.jgss/sun.security.krb5=ALL-UNNAMED" "org.apache.spark.executor.CoarseGrainedExecutorBackend" "--driver-url" "spark://CoarseGrainedScheduler@p-bc-5033.2e.hpc.psu.edu:38381" "--executor-id" "4" "--hostname" "10.6.8.74" "--cores" "4" "--app-id" "app-20241011130858-0000" "--worker-url" "spark://Worker@10.6.8.74:34311"
+24/10/11 13:08:59 INFO StandaloneAppClient$ClientEndpoint: Executor updated: app-20241011130858-0000/3 is now RUNNING
+24/10/11 13:08:59 INFO StandaloneAppClient$ClientEndpoint: Executor updated: app-20241011130858-0000/0 is now RUNNING
+24/10/11 13:08:59 INFO StandaloneAppClient$ClientEndpoint: Executor updated: app-20241011130858-0000/1 is now RUNNING
+24/10/11 13:08:59 INFO StandaloneAppClient$ClientEndpoint: Executor updated: app-20241011130858-0000/2 is now RUNNING
+24/10/11 13:08:59 INFO StandaloneAppClient$ClientEndpoint: Executor updated: app-20241011130858-0000/4 is now RUNNING
+24/10/11 13:08:59 INFO StandaloneSchedulerBackend: SchedulerBackend is ready for scheduling beginning after reached minRegisteredResourcesRatio: 0.0
+24/10/11 13:09:20 INFO Worker: Asked to kill executor app-20241011130858-0000/2
+24/10/11 13:09:20 INFO ExecutorRunner: Runner thread for executor app-20241011130858-0000/2 interrupted
+24/10/11 13:09:20 INFO ExecutorRunner: Killing process!
+24/10/11 13:09:20 INFO Worker: Asked to kill executor app-20241011130858-0000/4
+24/10/11 13:09:20 INFO ExecutorRunner: Runner thread for executor app-20241011130858-0000/4 interrupted
+24/10/11 13:09:20 INFO Worker: Asked to kill executor app-20241011130858-0000/3
+24/10/11 13:09:20 INFO ExecutorRunner: Killing process!
+24/10/11 13:09:20 INFO Worker: Asked to kill executor app-20241011130858-0000/1
+24/10/11 13:09:20 INFO ExecutorRunner: Runner thread for executor app-20241011130858-0000/1 interrupted
+24/10/11 13:09:20 INFO ExecutorRunner: Runner thread for executor app-20241011130858-0000/3 interrupted
+24/10/11 13:09:20 INFO Worker: Asked to kill executor app-20241011130858-0000/0
+24/10/11 13:09:20 INFO ExecutorRunner: Killing process!
+24/10/11 13:09:20 INFO ExecutorRunner: Killing process!
+24/10/11 13:09:20 INFO ExecutorRunner: Runner thread for executor app-20241011130858-0000/0 interrupted
+24/10/11 13:09:20 INFO ExecutorRunner: Killing process!
+24/10/11 13:09:20 INFO Worker: Executor app-20241011130858-0000/3 finished with state KILLED exitStatus 0
+24/10/11 13:09:20 INFO ExternalShuffleBlockResolver: Clean up non-shuffle and non-RDD files associated with the finished executor 3
+24/10/11 13:09:20 INFO ExternalShuffleBlockResolver: Executor is not registered (appId=app-20241011130858-0000, execId=3)
+24/10/11 13:09:20 INFO Worker: Executor app-20241011130858-0000/4 finished with state KILLED exitStatus 0
+24/10/11 13:09:20 INFO ExternalShuffleBlockResolver: Application app-20241011130858-0000 removed, cleanupLocalDirs = true
+24/10/11 13:09:20 INFO Worker: Cleaning up local directories for application app-20241011130858-0000
+24/10/11 13:09:20 INFO ExternalShuffleBlockResolver: Clean up non-shuffle and non-RDD files associated with the finished executor 4
+24/10/11 13:09:20 INFO ExternalShuffleBlockResolver: Executor is not registered (appId=app-20241011130858-0000, execId=4)
+24/10/11 13:09:20 INFO Worker: Executor app-20241011130858-0000/0 finished with state KILLED exitStatus 0
+24/10/11 13:09:20 INFO ExternalShuffleBlockResolver: Application app-20241011130858-0000 removed, cleanupLocalDirs = true
+24/10/11 13:09:20 INFO ExternalShuffleBlockResolver: Clean up non-shuffle and non-RDD files associated with the finished executor 0
+24/10/11 13:09:20 INFO Worker: Cleaning up local directories for application app-20241011130858-0000
+24/10/11 13:09:20 INFO ExternalShuffleBlockResolver: Executor is not registered (appId=app-20241011130858-0000, execId=0)
+24/10/11 13:09:20 INFO ExternalShuffleBlockResolver: Application app-20241011130858-0000 removed, cleanupLocalDirs = true
+24/10/11 13:09:20 INFO Worker: Cleaning up local directories for application app-20241011130858-0000
+24/10/11 13:09:20 INFO Worker: Executor app-20241011130858-0000/1 finished with state KILLED exitStatus 0
+24/10/11 13:09:20 INFO ExternalShuffleBlockResolver: Clean up non-shuffle and non-RDD files associated with the finished executor 1
+24/10/11 13:09:20 INFO ExternalShuffleBlockResolver: Executor is not registered (appId=app-20241011130858-0000, execId=1)
+24/10/11 13:09:20 INFO Worker: Cleaning up local directories for application app-20241011130858-0000
+24/10/11 13:09:20 INFO ExternalShuffleBlockResolver: Application app-20241011130858-0000 removed, cleanupLocalDirs = true
+24/10/11 13:09:20 INFO Worker: Executor app-20241011130858-0000/2 finished with state KILLED exitStatus 143
+24/10/11 13:09:20 INFO ExternalShuffleBlockResolver: Clean up non-shuffle and non-RDD files associated with the finished executor 2
+24/10/11 13:09:20 INFO ExternalShuffleBlockResolver: Executor is not registered (appId=app-20241011130858-0000, execId=2)
+24/10/11 13:09:20 INFO ExternalShuffleBlockResolver: Application app-20241011130858-0000 removed, cleanupLocalDirs = true
+24/10/11 13:09:20 INFO Worker: Cleaning up local directories for application app-20241011130858-0000
+/storage/icds/RISE/sw8/spark-3.3.0-bin-hadoop3/sbin/start-master.sh
+/storage/icds/RISE/sw8/spark-3.3.0-bin-hadoop3/bin/spark-class org.apache.spark.deploy.worker.Worker --work-dir /storage/work/tkk5297/Lab7 spark://p-bc-5033:7077
+SPARK_MASTER_HOST=p-bc-5033
+SPARK_MASTER_PORT=7077
+
+real	0m53.883s
+user	0m20.544s
+sys	0m1.389s
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+slurmstepd: error: *** STEP 23673579.0 ON p-bc-5033 CANCELLED AT 2024-10-11T14:07:24 DUE TO TIME LIMIT ***
+24/10/11 14:07:24 ERROR Worker: RECEIVED SIGNAL TERM
+24/10/11 14:07:24 ERROR Worker: RECEIVED SIGNAL TERM
+24/10/11 14:07:24 ERROR Worker: RECEIVED SIGNAL TERM
+24/10/11 14:07:24 ERROR Worker: RECEIVED SIGNAL TERM
+24/10/11 14:07:24 ERROR Worker: RECEIVED SIGNAL TERM
+24/10/11 14:07:24 INFO ShutdownHookManager: Shutdown hook called
+24/10/11 14:07:24 INFO ShutdownHookManager: Shutdown hook called
+24/10/11 14:07:24 INFO ShutdownHookManager: Deleting directory /tmp/spark-e463117c-14a4-467e-af24-facb13a1df8f
+24/10/11 14:07:24 INFO ShutdownHookManager: Deleting directory /tmp/spark-fdf3a703-877b-4562-a679-6e09b2d8c6dc
+24/10/11 14:07:24 INFO ShutdownHookManager: Shutdown hook called
